@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--Contextual Menu Items -->
+    <item
+        android:id="@+id/id_youtube"
+        android:title="View Video"
+        ></item>
+    <item
+        android:id="@+id/id_wiki"
+        android:title="Song Details"
+        ></item>
+    <item
+        android:id="@+id/id_wiki2"
+        android:title="Artist Details"
+        ></item>
+</menu>

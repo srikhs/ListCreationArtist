@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">ListCreation</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="song"> <!-- Song Links -->
+        <item>https://www.youtube.com/watch?v=IarsrX60bZw</item>
+        <item>https://www.youtube.com/watch?v=KGCbBnxTFOE</item>
+        <item>https://www.youtube.com/watch?v=YR12Z8f1Dh8</item>
+        <item>https://www.youtube.com/watch?v=lRITPjraXgA</item>
+        <item>https://www.youtube.com/watch?v=Co0tTeuUVhU</item>
+        <item>https://www.youtube.com/watch?v=CevxZvSJLk8</item>
+    </string-array>
+
+    <string-array name="title"> <!-- Song Title -->
+        <item>Thalli Pogathe</item>
+        <item>Kannamma</item>
+        <item>Kolaveri di</item>
+        <item>Sem Mozhi</item>
+        <item>Heartless</item>
+        <item>Roar</item>
+    </string-array>
+
+    <string-array name="artist"> <!-- Artist Names -->
+        <item>A.R.Rahman</item>
+        <item>Leon James</item>
+        <item>Dhanush</item>
+        <item>A.R.Rahman</item>
+        <item>Kanye West</item>
+        <item>Katy Perry</item>
+    </string-array>
+
+    <string-array name="songPage"> <!-- Song Wikipedia Links -->
+        <item>https://en.wikipedia.org/wiki/Achcham_Yenbadhu_Madamaiyada</item>
+        <item>https://en.wikipedia.org/wiki/Ko_2</item>
+        <item>https://en.wikipedia.org/wiki/Why_This_Kolaveri_Di</item>
+        <item>https://en.wikipedia.org/wiki/Semmozhiyaana_Thamizh_Mozhiyaam</item>
+        <item>https://en.wikipedia.org/wiki/Heartless_(Kanye_West_song)</item>
+        <item>https://en.wikipedia.org/wiki/Roar_(song)</item>
+    </string-array>
+
+    <string-array name="artistPage"> <!-- Author Wikipedia Links -->
+        <item>https://en.wikipedia.org/wiki/A._R._Rahman</item>
+        <item>https://en.wikipedia.org/wiki/Leon_James</item>
+        <item>https://en.wikipedia.org/wiki/Dhanush</item>
+        <item>https://en.wikipedia.org/wiki/A._R._Rahman</item>
+        <item>https://en.wikipedia.org/wiki/Kanye_West</item>
+        <item>https://en.wikipedia.org/wiki/Katy_Perry</item>
+    </string-array>
+</resources>
